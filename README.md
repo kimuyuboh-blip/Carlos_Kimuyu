@@ -1,6 +1,6 @@
 <body>
 <main>
-# Carlos_Kimuyu
+<title>Carlos_Kimuyu</title>
 <section>
 <h2><strong><i>📌 Project Description</i></strong></h2>
 
@@ -20,9 +20,9 @@ This project is a school master timetable webpage for the 2024/2025 academic yea
 <li>✅ The project has passed validation checks using the W3C Markup Validation Service (HTML) and the W3C CSS Validation Service (CSS), with no errors or warnings present in the final submission.</li>
 <br>
 </ul>
-<img src="5. validation/html-validation.png" alt="Image of the html document validation with no errors.">
+<img src="validation/html-validation.png" alt="Image of the html document validation with no errors.">
 <br><br>
-<img src="5. validation/css-validation.png" alt="Image of the css stylesheet validation with no errors found.">
+<img src="validation/css-validation.png" alt="Image of the css stylesheet validation with no errors found.">
 </section>
 
 <section>
@@ -63,7 +63,7 @@ The project includes several features aimed at accessibility:
 
 <li>Some cells with light backgrounds (like yellow for break) still have black text, which preserves readability.</li>
 </ol>
-<footer><img src="4. timetable.png" alt="">Master timetable for the academic year 2024/2025 showing days of the week, class years and subjects.</footer>
+<footer><img src="timetable.png" alt="">Master timetable for the academic year 2024/2025 showing days of the week, class years and subjects.</footer>
 </main>
 </body>
 
